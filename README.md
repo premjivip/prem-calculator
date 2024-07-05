@@ -130,7 +130,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Screenshot (84)](https://github.com/premjivip/prem-calculator/assets/143831886/df09c722-70ba-49dd-baa2-64a450dd87fa)
+![Screenshot (83)](https://github.com/premjivip/prem-calculator/assets/143831886/6efe30f8-2d5a-4f32-8c40-527241eb78f9)
 ![Screenshot (84)](https://github.com/premjivip/prem-calculator/assets/143831886/4895c4c6-15ee-4984-a49a-3116060cfe22)
 
 ## RESULT:
