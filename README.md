@@ -1,6 +1,4 @@
-# Ex.08 Design of a Standard Calculator
-## Date:28/10/2023
-
+## Design of a Standard Calculator
 ## AIM:
 To design a web application for a standard calculator with minimum five operations.
 
@@ -132,8 +130,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (81).png>)
-![alt text](<Screenshot (82).png>)
+![Screenshot (84)](https://github.com/premjivip/prem-calculator/assets/143831886/df09c722-70ba-49dd-baa2-64a450dd87fa)
+![Screenshot (84)](https://github.com/premjivip/prem-calculator/assets/143831886/4895c4c6-15ee-4984-a49a-3116060cfe22)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
